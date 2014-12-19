@@ -4,7 +4,7 @@ DCCS
 Contact-Manager
 
   Aplikacija se nalazi ne web stranici:
-  http://www.stranica.6te.net
+  www.stranica.6te.net
 
 
 Contact-Manager je web aplikacija koja korisniku omogućava oraganizacije svojih kontakata. 
