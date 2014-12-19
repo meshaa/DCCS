@@ -3,7 +3,7 @@ DCCS
 
 Contact-Manager
 
-  Aplikacija se nalazi ne web stranici:
+  Aplikacija se nalazi na web stranici:
    http://stranica.6te.net
 
 
