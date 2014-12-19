@@ -1,0 +1,11 @@
+body {
+  padding-top: 60px; 
+}
+
+#tbl {white-space:pre-wrap}
+
+#aboutDescription
+{
+    height: 100px;
+    max-height: 100px;  
+}
